@@ -1,10 +1,10 @@
 ## Hello there 👋,
 
-🎯 I'm a Software Quality Assurance and aspiring Backend Engineer \n
-🔭 I’m currently working on Finance Company at South Jakarta \n
-🧠 Passionate about web development, test automation, and continuous learning \n
-🏊‍♂️ Currently diving into JavaScript and back-end architecture \n
-📫 Reach me: mhelmigusthomuloh@gmail.com
+ 🎯 I'm a Software Quality Assurance and aspiring Backend Engineer
+ 🔭 I’m currently working on Finance Company at South Jakarta
+ 🧠 Passionate about web development, test automation, and continuous learning
+ 🏊‍♂️ Currently diving into JavaScript and back-end architecture
+ 📫 Reach me: mhelmigusthomuloh@gmail.com
 
 <!--
 **mhelmiii/mhelmiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
