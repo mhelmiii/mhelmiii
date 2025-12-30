@@ -3,7 +3,7 @@
 - 🎯 I'm a Software Quality Assurance and aspiring Backend Engineer.
 - :briefcase: I am currently employed at a finance company based in South Jakarta.
 - 🧠 Passionate about web development, test automation, and continuous learning.
-- 🏊‍♂️ Currently diving into JavaScript and back-end architecture.
+- 🏊‍♂️ Currently diving into test automation and back-end architecture.
 - 📫 Reach me: mhelmigusthomuloh@gmail.com.
 
 <!--
