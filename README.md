@@ -4,6 +4,7 @@
 - :briefcase: I am currently employed at a finance company based in South Jakarta.
 - 🧠 Passionate about web development, test automation, and continuous learning.
 - 🏊‍♂️ Currently diving into test automation and full-stack development.
+- 🙏 My dream is to work at Google.
 - 📫 Reach me: mhelmigusthomuloh@gmail.com.
 
 <!--
