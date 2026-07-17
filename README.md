@@ -1,6 +1,6 @@
 ## Hello there 👋,
 
-- 🎯 I'm a Software Quality Assurance and aspiring Backend Engineer.
+- 🎯 I'm a Software Quality Assurance and aspiring Software Engineer.
 - :briefcase: I am currently employed at a finance company based in South Jakarta.
 - 🧠 Passionate about web development, test automation, and continuous learning.
 - 🏊‍♂️ Currently diving into test automation and full-stack development.
